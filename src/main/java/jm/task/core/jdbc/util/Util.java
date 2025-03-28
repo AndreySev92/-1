@@ -11,7 +11,7 @@ import java.util.Properties;
 
 public class Util {
     private static final String SECRET_WORD = "root";
-    private static final String DB_URL = "jdbc:mysql://localhost:3306/mybase";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/mydbtest";
     private static final String DB_DRIVER = "com.mysql.jdbc.Driver";
     private static final String DB_DIALECT = "org.hibernate.dialect.MySQLDialect";
 
